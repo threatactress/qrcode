@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    width: 100vw;
+    height: 100vh;
+    background-color: #21242d;
+    color: white;
+}
+body {
+    font-family: monospace;
+    text-align: center;
+}
+code {
+    display: block;
+    color: #71c491;
+}
+textarea, textarea:focus {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    height: 20%;
+    margin-bottom: 1rem;
+    background-color: #21242d;
+    color: white;
+    border: 1px dashed grey;
+    outline: none;
+    padding: 0.666rem;
+}
+button {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    padding: 0.333rem 0.666rem;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.color-green {
+    color: #71c491;
+}
