@@ -1,4 +1,4 @@
 # qrcode
 QRCode Generator
 
-# Hold your horses.. code is coming
+This page is static and blazingly fast!
